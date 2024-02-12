@@ -28,12 +28,7 @@ body
 	width:187px;
 	height:187px
 }
-#card #heading
-{
-	margin-bottom:0;
-	font-weight:700;
-}
-#card #content
+#card p
 {
 	font-size:12px;
 	font-weight:400;
